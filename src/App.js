@@ -9,7 +9,7 @@ function App() {
       <div className='list'>
         <p className='text'>Holiday is alway good idea</p>
         <h1>Holiday Packing List</h1>
-          <PackingList/>
+        <PackingList/>
       </div>
     </div>
   );
